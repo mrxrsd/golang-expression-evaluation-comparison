@@ -86,6 +86,10 @@ github.com/mitchellh/mapstructure v1.4.1 h1:CpVNEelQCZBooIPDn+AR3NpivK/TIKU8bDxd
 github.com/mitchellh/mapstructure v1.4.1/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/mitchellh/pointerstructure v1.2.0 h1:O+i9nHnXS3l/9Wu7r4NrEdwA2VFTicjUEN1uBnDo34A=
 github.com/mitchellh/pointerstructure v1.2.0/go.mod h1:BRAsLI5zgXmw97Lf6s25bs8ohIXc3tViBH44KcwB2g4=
+github.com/mrxrsd/gojacego v1.0.0-alpha1 h1:ftYMW9WyFumMClCVKuZ/HWG4hBzASSGsiugbh6VCKCg=
+github.com/mrxrsd/gojacego v1.0.0-alpha1/go.mod h1:ZKyj95Kcm8aI1h5M6AUSV2HuTHf/l5YWeImgbLPP/PU=
+github.com/mrxrsd/gojacego v1.0.0-alpha2 h1:srdPi0zda7Djwerv2UL9oPtdyGntaoPX4tPjAze38Wc=
+github.com/mrxrsd/gojacego v1.0.0-alpha2/go.mod h1:ZKyj95Kcm8aI1h5M6AUSV2HuTHf/l5YWeImgbLPP/PU=
 github.com/pmezard/go-difflib v0.0.0-20151028094244-d8ed2627bdf0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=

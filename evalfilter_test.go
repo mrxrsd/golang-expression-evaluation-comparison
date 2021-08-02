@@ -15,7 +15,7 @@ func Benchmark_evalfilter(b *testing.B) {
 
 	// Script we run has to be modified a little, to turn it into a
 	// filter with a boolean return-value.
-	src := `if ( (Origin == "MOW" || Country == "RU") && (Value >= 100 || Adults == 1) ) { return true; } else { return false; }`
+	src := `if ( (Origin == 1 || Country == 51) && (Value >= 100 || Adults == 1) ) { return true; } else { return false; }`
 
 	eval := evalfilter.New(src)
 

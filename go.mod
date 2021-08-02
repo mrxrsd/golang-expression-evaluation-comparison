@@ -11,6 +11,7 @@ require (
 	github.com/dop251/goja v0.0.0-20210406175830-1b11a6af686d
 	github.com/google/cel-go v0.7.3
 	github.com/hashicorp/go-bexpr v0.1.7
+	github.com/mrxrsd/gojacego v1.0.0-alpha2 // indirect
 	github.com/robertkrimen/otto v0.0.0-20200922221731-ef014fd054ac
 	github.com/skx/evalfilter/v2 v2.1.14
 	go.starlark.net v0.0.0-20210406145628-7a1108eaa012
