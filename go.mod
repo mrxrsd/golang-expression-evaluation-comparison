@@ -4,7 +4,7 @@ go 1.12
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
-	github.com/PaesslerAG/gval v1.1.0
+	github.com/PaesslerAG/gval v1.1.1
 	github.com/PaesslerAG/jsonpath v0.1.1 // indirect
 	github.com/antlr/antlr4 v0.0.0-20210408161727-b71f6894c7cb // indirect
 	github.com/antonmedv/expr v1.8.9
